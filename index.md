@@ -1,35 +1,12 @@
 # BugCraft GitHub Page
-<title>BugCraft Page</title>
 
 > ㅤㅤ声明：BugCraft 是一个全部使用免费服务搭建并部署的 Minecraft 服务器。如你所见，我们并没有自己的服务器，因此可能并不稳定。因为我们只使用免费服务，所以我们不会要求你向我们付费或捐赠。
 ㅤㅤ欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
 
-ㅤㅤ你好！欢迎查看 BugCraft 的 GitHub Page。BugCraft 是一个 Minecraft 服务器，当前已升级至 1.20.1 的 Minecraft 版本。要获取服务器的地址，请继续看下去。
+ㅤㅤ你好！欢迎查看 BugCraft 的 GitHub Page。BugCraft 是一个 Minecraft 服务器，当前已升级至 1.20.1 的 Minecraft 版本。
 
-## 网页版服务器状态报告
-ㅤㅤ我们拥有由 `EagercraftX` 支持的网页版服务器，以下是网页版服务器的状态。
-### OpenFrp 通道
-<div id="openfrp"></div>
-ㅤㅤ
-
-ㅤㅤ点击下面的链接以通过 OpenFrp 加入我们的网页版服务器。
-
-http://cn-fz-plc-1.openfrp.top:18000/client/?server=ws://cn-fz-plc-1.openfrp.top:18000/server
-ㅤㅤ
-### Kaifuxia 通道
-
-<div id="kaifuxia"></div>
-ㅤㅤ
-
-ㅤㅤ点击下面的链接以通过 Kaifuxia 加入我们的网页版服务器。
-
-http://cn-fz-plc-1.openfrp.top:18000/client/?server=ws://e2.kaifuxia.com:11273/
-
-ㅤㅤ
-ㅤㅤ上面的快捷链接将在你的浏览器中启动 EagercraftX 1.8 版本，并在你填写好 BugID、设置好皮肤，然后点击 “完成” 后自动加入与上面的标题对应的服务器。目前，**这种加入方式仅支持使用鼠标和键盘来进行操作。**
-
-ㅤㅤ想要在自己的网页上嵌入 BugCraft 的服务器状态？
-ㅤㅤ请参考[这个 GitHub 存储库](https://github.com/lax1dude/eaglercraft-HTML5_Ping_Embed)。
+## [网页版服务器状态报告](http://cn-fz-plc-1.openfrp.top:18000/info/)
+ㅤㅤ在这里你可以查看网页版服务器的状态报告。点击标题以跳转至状态报告页面。
 
 ## 服务器地址
 ㅤㅤ因为使用免费服务的缘故，所以我们的服务器地址时常会变化。很抱歉，如果你无法连接到我们的服务器，请尝试回到此页面查看我们是否更换了地址。
@@ -56,12 +33,4 @@ http://cn-fz-plc-1.openfrp.top:18000/client/?server=ws://e2.kaifuxia.com:11273/
 ㅤㅤ如果你无法访问这个链接，请访问[他们的网络硬盘](https://www.123pan.com/s/9HM9-SDzlA.html)。这两个链接中的 Minecraft 仅支持 Android 设备，是我们最推荐的基岩版本（1.20.0.01）。
 > ㅤㅤ注意：基岩版本的网络地址和端口号是需要分开填写的。此外，你需要在此版本的 Minecraft 中登录 Microsoft 或者 Xbox 账户才能连接到我们的服务器。
 
-ㅤㅤ此页面由 Ygbs 于二〇二三年六月十九日编写。感谢你的阅读。
-
-<script type="text/javascript" src="embed.js"></script>
-<script>
-	var embed = new ServerEmbed(document.getElementById("openfrp"), "100%");
-	embed.ping("ws://cn-fz-plc-1.openfrp.top:18000/server");
-	var embed = new ServerEmbed(document.getElementById("kaifuxia"), "100%");
-	embed.ping("ws://e2.kaifuxia.com:11273/");
-</script>
+ㅤㅤ此页面由 Ygbs 于二〇二三年六月十九日编写。此页面全部内容采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权。此页面的文档位于[这个 GitHub 存储库](https://github.com/Bug-Craft/bug-craft.github.io)，感谢你的阅读。
