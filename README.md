@@ -1,4 +1,4 @@
-# bug-craft.github.io
+# bugcraft.org
 BugCraft GitHub Page
 
 很抱歉我不知道该写什么。
