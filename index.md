@@ -1,13 +1,15 @@
-# [BugCraft Web Site](bugcraft.org)
+# [BugCraft Web Site](http://bugcraft.org/)
 
-> ㅤㅤ这个页面的存储库在[这里](https://github.com/Bug-Craft/bugcraft.org)。欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
+> ㅤㅤ欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
 
-ㅤㅤ你好！欢迎查看 BugCraft 的 GitHub Page。BugCraft 是一个 Minecraft 服务器，当前已升级至 1.20.1 的 Minecraft 版本。
+ㅤㅤ你好！欢迎查看 BugCraft 的官方网站！这个网站的存储库在[这里](https://github.com/Bug-Craft/bugcraft.org)。BugCraft 是一个 Minecraft 服务器，当前已升级至 1.20.1 的 Minecraft 版本。
 
-## [网页版服务器状态报告](http://cn-fz-plc-1.openfrp.top:18000/info/)
-ㅤㅤ在这里你可以查看网页版服务器的状态报告。点击标题以跳转至状态报告页面。
+### [快速加入网页版！](web/index.html)
 
-## 服务器地址
+ㅤㅤ点按这个标题即可查看网页版的加入方法，还可以看到网页版服务器的状态哦！
+
+### 服务器地址
+
 ㅤㅤ<s>因为使用免费服务的缘故，所以我们的服务器地址时常会变化。很抱歉，如果你无法连接到我们的服务器，请尝试回到此页面查看我们是否更换了地址。</s>
 
 ㅤㅤ我们最近拥有了 bugcraft.org，您可以从这里访问 BugCraft 的 GitHub Page。在这里你可以找到服务器的游玩地址，即使它们发生了变化。
@@ -16,16 +18,12 @@
 
 | Minecraft 版本 | 网络地址 | 连接方式
 |---|---|---|
-| Web | http://cn-fz-plc-1.openfrp.top:18000/ | 使用浏览器打开此地址。
 | Java | cn-fz-plc-1.openfrp.top:32000 | 使用 Java 版 Minecraft 连接。
 | Bedrock | cn-fz-plc-1.openfrp.top:45000 | 使用基岩版 Minecraft 连接。
 
 ㅤㅤ接下来我们想要向你介绍一下具体的连接方式。
 
-ㅤㅤ如果你设备上的浏览器支持 `WebGL 2.0` ，那么你将可以使用网页版来连接这个服务器。推荐使用 [Google Chrome](https://www.google.cn/intl/zh-CN/chrome/) 来通过网页版加入。
-> ㅤㅤ此版本为 PBR 光影版本，默认语言为中文（简体），光影需要在 “选项” 中开启。关于语言支持，它支持 Minecraft Java 1.8 版本所支持的所有语言。 
-
-ㅤㅤ不支持 WebGL 2.0 或者想要拥有更好的体验？在你的设备上安装 Minecraft: Java Edition 以使用 Java 版本加入这个服务器。支持的 Minecraft: Java Edition 的版本范围是 **`1.8 - 1.20.1`** 。推荐使用 [Hello Minecraft! Launcher](https://hmcl.huangyuhui.net/) 来启动 Java 版本的 Minecraft。如果你不知道如何使用它，我们向你推荐[这篇文章](https://www.bilibili.com/read/cv14759963/)。
+在你的设备上安装 Minecraft: Java Edition 以使用 Java 版本加入这个服务器。支持的 Minecraft: Java Edition 的版本范围是 **`1.8 - 1.20.1`** 。推荐使用 [Hello Minecraft! Launcher](https://hmcl.huangyuhui.net/) 来启动 Java 版本的 Minecraft。如果你不知道如何使用它，我们向你推荐[这篇文章](https://www.bilibili.com/read/cv14759963/)。
 > ㅤㅤ使用此版本被认为是能够获得较好的体验的方法。但是如果你希望使用移动设备加入，请使用下一个方法而非[在移动设备上启动 Java 版 Minecraft](https://www.npbeta.com/2021/11/minecraft-java-on-android/)。
 
 ㅤㅤ如果你希望使用移动设备来连接，那么请使用 Minecraft: Bedrock Edition 来连接。
