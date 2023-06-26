@@ -1,8 +1,8 @@
-# [BugCraft Web Site](http://bugcraft.org/)
+# [BugCraft](https://bugcraft.org/)
 
 > ㅤㅤ欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
 
-ㅤㅤ你好！欢迎查看 BugCraft 的官方网站！这个网站的存储库在[这里](https://github.com/Bug-Craft/bugcraft.org)。BugCraft 是一个 Minecraft 服务器，当前已升级至 1.20.1 的 Minecraft 版本。
+ㅤㅤ你好！欢迎查看 BugCraft 的官方网站！BugCraft 是一个 Minecraft 服务器，当前已升级至 1.20.1 的 Minecraft 版本。
 
 ### [快速加入网页版！](web/index.html)
 
@@ -32,4 +32,4 @@
 ㅤㅤ如果你无法访问这个链接，请访问[他们的网络硬盘](https://www.123pan.com/s/9HM9-SDzlA.html)。这两个链接中的 Minecraft 仅支持 Android 设备，是我们最推荐的基岩版本（1.20.0.01）。
 > ㅤㅤ注意：基岩版本的网络地址和端口号是需要分开填写的。此外，你需要在此版本的 Minecraft 中登录 Microsoft 或者 Xbox 账户才能连接到我们的服务器。
 
-ㅤㅤ此页面由 Ygbs 于二〇二三年六月二十六日编写。此页面全部内容采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权。此页面的文档位于[这个 GitHub 存储库](https://github.com/Bug-Craft/bug-craft.github.io)，感谢你的阅读。
+ㅤㅤ此页面由 Ygbs 于二〇二三年六月二十六日编写。此网站全部内容采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权。这个网站的存储库在[这里](https://github.com/Bug-Craft/bugcraft.org)。，感谢你的阅读。
