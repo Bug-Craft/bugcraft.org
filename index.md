@@ -1,7 +1,6 @@
-# BugCraft GitHub Page
+# [BugCraft Web Site](bugcraft.org)
 
-> ㅤㅤ声明：BugCraft 是一个全部使用免费服务搭建并部署的 Minecraft 服务器。如你所见，我们并没有自己的服务器，因此可能并不稳定。因为我们只使用免费服务，所以我们不会要求你向我们付费或捐赠。
-ㅤㅤ欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
+> ㅤㅤ这个页面的存储库在[这里](https://github.com/Bug-Craft/bugcraft.org)。欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
 
 ㅤㅤ你好！欢迎查看 BugCraft 的 GitHub Page。BugCraft 是一个 Minecraft 服务器，当前已升级至 1.20.1 的 Minecraft 版本。
 
@@ -9,7 +8,9 @@
 ㅤㅤ在这里你可以查看网页版服务器的状态报告。点击标题以跳转至状态报告页面。
 
 ## 服务器地址
-ㅤㅤ因为使用免费服务的缘故，所以我们的服务器地址时常会变化。很抱歉，如果你无法连接到我们的服务器，请尝试回到此页面查看我们是否更换了地址。
+ㅤㅤ<s>因为使用免费服务的缘故，所以我们的服务器地址时常会变化。很抱歉，如果你无法连接到我们的服务器，请尝试回到此页面查看我们是否更换了地址。</s>
+
+ㅤㅤ我们最近拥有了 bugcraft.org，您可以从这里访问 BugCraft 的 GitHub Page。在这里你可以找到服务器的游玩地址，即使它们发生了变化。
 
 ㅤㅤ以下是我们服务器的地址。
 
@@ -33,4 +34,4 @@
 ㅤㅤ如果你无法访问这个链接，请访问[他们的网络硬盘](https://www.123pan.com/s/9HM9-SDzlA.html)。这两个链接中的 Minecraft 仅支持 Android 设备，是我们最推荐的基岩版本（1.20.0.01）。
 > ㅤㅤ注意：基岩版本的网络地址和端口号是需要分开填写的。此外，你需要在此版本的 Minecraft 中登录 Microsoft 或者 Xbox 账户才能连接到我们的服务器。
 
-ㅤㅤ此页面由 Ygbs 于二〇二三年六月十九日编写。此页面全部内容采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权。此页面的文档位于[这个 GitHub 存储库](https://github.com/Bug-Craft/bug-craft.github.io)，感谢你的阅读。
+ㅤㅤ此页面由 Ygbs 于二〇二三年六月二十六日编写。此页面全部内容采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权。此页面的文档位于[这个 GitHub 存储库](https://github.com/Bug-Craft/bug-craft.github.io)，感谢你的阅读。
