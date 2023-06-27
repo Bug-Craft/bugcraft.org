@@ -8,7 +8,7 @@
 
 ㅤㅤ你好！欢迎查看 BugCraft 的官方网站！BugCraft 是一个 Minecraft 服务器，当前已升级至 1.20.1 的 Minecraft 版本。这个网站看起来可能有些简陋，但是不要紧，我们还会来升级它。
 
-ㅤㅤ**注意：BugCraft 的官方服务器地址仅包含 `bugcraft.org`，及其它前缀的服务器。
+ㅤㅤ**注意：BugCraft 的域名仅包含 `bugcraft.org`，及带有其他前缀的域名（例如 `play.bugcraft.org`）。**
 
 ## 服务器地址
 
@@ -50,6 +50,8 @@
 
 > ㅤㅤ此页面由 Ygbs 于二〇二三年六月二十六日重新编写。此网站全部内容采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权。这个网站的存储库在[这里](https://github.com/Bug-Craft/bugcraft.org)。感谢你的阅读。
 
-ㅤ
-ㅤ
+
+<div style="display: flex; justify-content: center; align-items: center">
+    <p>Copyleft © 2022-2023 BugCraft Organization. All rights not reserved.</p>
+</div>
 ㅤ
