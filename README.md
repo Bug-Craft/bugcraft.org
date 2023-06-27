@@ -1,8 +1,6 @@
 # bugcraft.org
-BugCraft GitHub Page
+BugCraft Web Site
 
-很抱歉我不知道该写什么。
-I'm sorry, but I don't know what to write.
+这是 BugCraft 的官方网站的存储库。
 
-这只是一个 GitHub Page 的存储库，仅此而已。
-This is just a GitHub Page repository, nothing more.
+你可以在 http://bugcraft.org/ 处查看它。
