@@ -1,7 +1,7 @@
-# [BugCraft](https://bugcraft.org/)
 
 ![这……显示不出来吗？没关系，这不影响您继续阅读。](bugcraft.png)
 
+# BugCraft
 ## There are many bugs to play.
 
 > ㅤㅤ欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
@@ -46,12 +46,23 @@
 
 ### EaglerX 版服务器地址
 
-ㅤㅤ很抱歉，由于 EaglercraftX 已被多次 DMCA 投诉并且存在较多争议，我们已暂时停止了对于 EaglercraftX 版客户端的支持。对于您的不便，我们深感抱歉。
+ㅤㅤ请使用浏览器访问：
+> http://cn-fz-plc-1.openfrp.top:18000/
 
-> ㅤㅤ此页面由 Ygbs 于二〇二三年六月二十六日重新编写。此网站全部内容采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权。这个网站的存储库在[这里](https://github.com/Bug-Craft/bugcraft.org)。感谢你的阅读。
+ㅤㅤ建议首先进行 WebGL 2.0 支持性检查：
+> http://cn-fz-plc-1.openfrp.top:18000/tools/webglreport/?v=2
+
+## 我该怎么玩？
+
+ㅤㅤ这一部分尚未完成。
+
+> ㅤㅤ此页面由 Ygbs 于二〇二三年六月三十日重新编写。此网站全部内容采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权。这个网站的存储库在[这里](https://github.com/Bug-Craft/bugcraft.org)。感谢你的阅读。
 
 
 <div style="display: flex; justify-content: center; align-items: center">
     <p>Copyleft © 2022-2023 BugCraft Organization. All rights not reserved.</p>
+</div>
+<div style="display: flex; justify-content: center; align-items: center">
+    <a href="https://icp.gov.moe/?keyword=20230370" target="_blank">萌 ICP 备 20230370 号</a>
 </div>
 ㅤ
