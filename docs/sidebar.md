@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [**å¿«é€Ÿå¼€å§‹**](Start/)
-    * [Java ç‰ˆæœ¬åŠ å…¥æ–¹æ³•](Start/Java)
-    * [Bedrock ç‰ˆæœ¬åŠ å…¥æ–¹æ³•](Start/Bedrock)
-    * [EaglerX ç‰ˆæœ¬åŠ å…¥æ–¹æ³•](Start/EaglerX)
+* [**¿ìËÙ¿ªÊ¼**](Start/)
+    * [Java °æ±¾¼ÓÈë·½·¨](Start/Java)
+    * [Bedrock °æ±¾¼ÓÈë·½·¨](Start/Bedrock)
+    * [EaglerX °æ±¾¼ÓÈë·½·¨](Start/EaglerX)
