@@ -7,6 +7,8 @@
 
 ㅤㅤ你好！欢迎查看 BugCraft 的官方网站！BugCraft 是一个 Minecraft 服务器，当前已升级至 1.20.1 的 Minecraft 版本。这个网站看起来可能有些简陋，但是不要紧，我们还会来升级它。
 
+ㅤㅤ需要注意的是，BugCraft 的域名仅包括 bugcraft.org 及其子域名。BugCraft 服务器也只采用 bugcraft.org 及其子域名。
+
 ## 服务器地址
 
 ㅤㅤ注意：以下给出的服务器地址全部为 BugCraft 的服务器地址，无论您如何加入 BugCraft，您都将和使用其他地址和方式加入的玩家见面。这意味着 BugCraft 是一个多版本互通的服务器。
@@ -44,10 +46,10 @@
 ### EaglerX 版服务器地址
 
 ㅤㅤ请使用浏览器访问：
-> http://cn-fz-plc-1.openfrp.top:18000/
+> http://hub.bugcraft.org:18000/
 
 ㅤㅤ建议首先进行 WebGL 2.0 支持性检查：
-> http://cn-fz-plc-1.openfrp.top:18000/tools/webglreport/?v=2
+> http://hub.bugcraft.org:18000/tools/webglreport/?v=2
 
 ## 我该怎么玩？
 
@@ -61,7 +63,7 @@
 
 ㅤㅤBugCraft 赞助了一些其他服务器。请注意这些服务器的 MOTD 都具有 `Powered by BugCraft` 标识。**这些服务器不是 BugCraft 官方的服务器。**
 
-ㅤㅤBugCraft 赞助这些服务器是出于善意。长时间未上线的服务器将被移除。
+ㅤㅤBugCraft 会将被赞助但是长时间未上线的服务器移除。
 
 ### ABEI
 > `abei-server.bugcraft.org`
