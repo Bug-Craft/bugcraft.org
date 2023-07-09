@@ -40,10 +40,11 @@
 ### EaglerX 版服务器地址
 
 ㅤㅤ请使用浏览器访问：
-> http://hub.bugcraft.org:18000/
+> http://host.bugcraft.org:18000/
 
-ㅤㅤ建议首先进行 WebGL 2.0 支持性检查：
-> http://hub.bugcraft.org:18000/tools/webglreport/?v=2
+ㅤㅤ当出现以下现象时，请更换设备，或者使用 Java 版加入。
+
+![错误](failed.png)
 
 ## 我该怎么玩？
 
