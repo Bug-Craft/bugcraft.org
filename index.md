@@ -15,13 +15,7 @@
 
 ### Java 版服务器地址
 
-推荐使用：
-> `play.bugcraft.org`
-
-另外一个：
-> `hub.bugcraft.org:32000`
-
-ㅤㅤ任选一个即可。**注意：尽量使用 `play.bugcraft.org` 来连接。**
+> `host.bugcraft.org`
 
 ㅤㅤ支持的 Minecraft: Java Edition 的版本范围是 **`1.8 - 1.20.1`** 。仅需要以离线账户模式登录，无需 Microsoft 或者 Mojang 账户。
 
@@ -30,10 +24,10 @@
 ### Bedrock 版服务器地址
 
 地址：
-> `hub.bugcraft.org`
+> `host.bugcraft.org`
 
 端口：
-> `45000`
+> `19132`
 
 ㅤㅤ**支持的版本是 1.20.0.1。**
 
@@ -75,6 +69,9 @@
 
 ㅤㅤBugCraft 赞助的第二台服务器。Java 1.8 - 1.20。
 
+## 友情链接
+* [whycf 的主页](http://cyzs.tk/)
+
 ## 联系我们
 
 * [哔哩哔哩](https://b23.tv/HpmgYKV)
@@ -83,10 +80,17 @@
 
 > ㅤㅤ此页面由 Ygbs 于二〇二三年六月三十日重新编写。此网站全部内容采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权。这个网站的存储库在[这里](https://github.com/Bug-Craft/bugcraft.org)。感谢你的阅读。
 
+ㅤ
 <div style="display: flex; justify-content: center; align-items: center">
     <p>Copyleft © 2022-2023 BugCraft. All rights not reserved.</p>
 </div>
+
 <div style="display: flex; justify-content: center; align-items: center">
     <a href="https://icp.gov.moe/?keyword=20230370" target="_blank">萌 ICP 备 20230370 号</a>
+</div>
+ㅤ
+<div style="display: flex; justify-content: center; align-items: center">
+    <a href="https://ipw.cn/ipv6webcheck/?site=bugcraft.org" title="本站支持 IPv6 访问" target='_blank'><img style='display:inline-block;vertical-align:middle' alt="本站支持 IPv6 访问" src="https://static.ipw.cn/icon/ipv6-s1.svg"></a>
+    <a href="https://ipw.cn/ssl/?site=bugcraft.org" title="本站支持 SSL 安全访问" target='_blank'><img style='display:inline-block;vertical-align:middle' alt="本站支持 SSL 安全访问" src="https://static.ipw.cn/icon/ssl-s1.svg"></a>
 </div>
 ㅤ
