@@ -7,31 +7,37 @@
 
 ㅤㅤ欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
 
+ㅤㅤ不过遇到问题还是先看 BugCraft Docs 的好。Docs 中的服务器地址如果与这里显示的不同，请以这里显示的地址为准。
+
 ## 服务器地址
 
 ### Java 版服务器地址
 
+主要：
 > `play.bugcraft.org`
+
+备用：
+> `cn-fz-plc-2.openfrp.top:55565`
 
 ### Bedrock 版服务器地址
 
 地址：
-> `host.bugcraft.org`
+> cn-fz-plc-2.openfrp.top
 
 端口：
-> `19132`
+> 19132
 
 ### EaglerX 版服务器地址
 
-> http://host.bugcraft.org:18000/
+> http://cn-fz-plc-2.openfrp.top:18000
 
 ## Uptime Kuma 监测
 
-> http://host.bugcraft.org:3001/status/bugcraft
+> http://cn-fz-plc-2.openfrp.top:3001/status/bc
 
 ## BugCraft Docs
 
-> http://host.bugcraft.org:18000/docs/
+> http://cn-fz-plc-2.openfrp.top:18000/docs/
 
 ## 服务器列表
 
