@@ -3,6 +3,8 @@
 
 # BugCraft - There are many bugs to play.
 
+> BugCraft 一岁啦！感谢大家一路以来的陪伴，希望可以为大家带来更好的体验！
+
 ㅤㅤ你好！欢迎查看 BugCraft 的官方网站！BugCraft 是一个 Minecraft 服务器，当前已升级至 1.20.1 的 Minecraft 版本。
 
 ㅤㅤ欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
@@ -17,27 +19,27 @@
 > `play.bugcraft.org`
 
 备用：
-> `cn-fz-plc-2.openfrp.top:55565`
+> `hub.bugcraft.org:55565`
 
 ### Bedrock 版服务器地址
 
 地址：
-> cn-fz-plc-2.openfrp.top
+> hub.bugcraft.org
 
 端口：
 > 19132
 
 ### EaglerX 版服务器地址
 
-> http://cn-fz-plc-2.openfrp.top:18000
+> http://hub.bugcraft.org:18000
 
 ## Uptime Kuma 监测
 
-> http://cn-fz-plc-2.openfrp.top:3001/status/bc
+> http://hub.bugcraft.org:3001/status/bc
 
 ## BugCraft Docs
 
-> http://cn-fz-plc-2.openfrp.top:18000/docs/
+> http://hub.bugcraft.org:18000/docs/
 
 ## 服务器列表
 
