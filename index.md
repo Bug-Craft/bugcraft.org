@@ -41,6 +41,10 @@
 
 > http://hub.bugcraft.org:18000/docs/
 
+## 友情链接
+
+http://cyzs.tk/
+
 ## 服务器列表
 
 `abei-server.bugcraft.org`
