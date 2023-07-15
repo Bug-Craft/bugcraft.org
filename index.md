@@ -27,7 +27,7 @@
 > hub.bugcraft.org
 
 端口：
-> 19132
+> 39132
 
 ### EaglerX 版服务器地址
 
@@ -43,7 +43,11 @@
 
 ## 服务器列表
 
-ㅤㅤ正在重新准备。
+`abei-server.bugcraft.org`
+`thc-server.bugcraft.org`
+`abei-server.bugcraft.org`
+
+Java 1.8 - 1.20。这些服务器不由 BugCraft 运营。
 
 ## 联系我们
 
