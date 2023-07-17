@@ -33,23 +33,24 @@
 
 > http://hub.bugcraft.org:18000
 
-## Uptime Kuma 监测
+### Uptime Kuma 监测
 
 > http://hub.bugcraft.org:3001/status/bc
 
-## BugCraft Docs
+### BugCraft Docs
 
 > http://hub.bugcraft.org:18000/docs/
 
 ## 友情链接
 
-http://cyzs.tk/
+[whycf 的主页](http://cyzs.tk/)
+[SilentVoice 服务器](https://silentvoice.club/)
 
 ## 服务器列表
 
 `abei-server.bugcraft.org`
 `thc-server.bugcraft.org`
-`abei-server.bugcraft.org`
+`silent-server.bugcraft.org`
 
 Java 1.8 - 1.20。这些服务器不由 BugCraft 运营。
 
