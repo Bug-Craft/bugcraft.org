@@ -21,6 +21,8 @@
 备用：
 > `hub.bugcraft.org:55565`
 
+ㅤㅤ支持 1.8.0 - 1.20.1。
+
 ### Bedrock 版服务器地址
 
 地址：
@@ -29,9 +31,13 @@
 端口：
 > 39132
 
+ㅤㅤ支持 1.19.80 - 1.20.10。
+
 ### EaglerX 版服务器地址
 
 > http://hub.bugcraft.org:18000
+
+ㅤㅤ仅支持 1.8。
 
 ### Uptime Kuma 监测
 
@@ -44,7 +50,7 @@
 ## 友情链接
 
 [whycf 的主页](http://cyzs.tk/)
-[SilentVoice 服务器](https://silentvoice.club/)
+[友商ET系列基岩与Java服务器的官网](http://不如原神.下次一定.com/)
 
 ## 服务器列表
 
