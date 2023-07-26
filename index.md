@@ -51,6 +51,8 @@
 
 [whycf 的主页](http://cyzs.tk/)
 [友商ET系列基岩与Java服务器的官网](http://不如原神.下次一定.com/)
+[Craft233](https://www.craft233.top/)
+[野原灌水屋](https://www.sxc258.top/)
 
 ## 服务器列表
 
