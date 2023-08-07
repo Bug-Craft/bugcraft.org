@@ -53,8 +53,10 @@
 [友商ET系列基岩与Java服务器的官网](http://不如原神.下次一定.com/)
 [Craft233](https://www.craft233.top/)
 [野原灌水屋](https://www.sxc258.top/)
-[Cheemburger](http://byd.cheemburger.top/#contact)
+[Cheemburger](http://byd.cheemburger.top/)
 [阳云网络](http://itgov.cloud/)
+
+如果希望加入这里的友情链接，请与我们取得联系。
 
 ## 服务器列表
 
@@ -63,12 +65,6 @@
 `silent-server.bugcraft.org`
 
 Java 1.8 - 1.20。这些服务器不由 BugCraft 运营。
-
-## 联系我们
-
-* [哔哩哔哩](https://b23.tv/HpmgYKV)
-
-* [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=AxC2P5uPaRHre7Mv4b_xy8J7MPW9iCMK&jump_from=webapi&authKey=/+l3d1mKlpY5DCeXJ+qmDjiMoa/h4F4boPJhz6GeKJocNyXkmWR/z+oFvCT+r3CE)
 
 > ㅤㅤ此页面由 Ygbs 于二〇二三年七月十日重新编写。此网站全部内容采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权。这个网站的存储库在[这里](https://github.com/Bug-Craft/bugcraft.org)。感谢你的阅读。
 
