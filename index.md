@@ -3,7 +3,7 @@
 
 # BugCraft - There are many bugs to play.
 
-> BugCraft 不会向各位玩家收取费用！请不要相信 BugCraft 会要求你向 BugCraft 进行付款或者充值等操作。如果出现了这种情况，请与我们取得联系并进行反馈。
+> BugCraft 服务器正在维护调整……大约 8 月 10 日恢复。
 
 ㅤㅤ你好！欢迎查看 BugCraft 的官方网站！BugCraft 是一个 Minecraft 服务器，当前正在准备进行大的更改。这包括加入主大厅等更新，因此服务器连接地址变多了。
 
