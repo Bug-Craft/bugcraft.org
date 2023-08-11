@@ -3,7 +3,7 @@
 
 # BugCraft - There are many bugs to play.
 
-> BugCraft 现已恢复！
+> BugCraft 正在调整……
 
 ㅤㅤ你好！欢迎查看 BugCraft 的官方网站！BugCraft 是一个 Minecraft 服务器，目前主要的项目是生存服务器。
 
@@ -13,35 +13,13 @@
 
 ## 服务器地址
 
-### Java 版服务器地址
+ㅤㅤ我们坚持公益服务。但是……
 
-主要：
-> `play.bugcraft.org`
+ㅤㅤ我们最近经常受到攻击。并且我们的服务器也承担不了这么多玩家的加入。因此我们不会继续公布服务器地址了。此网站正在进行调整。如果依然希望加入 BugCraft，请联系我们。
 
-备用：
-> `hub.bugcraft.org:55565`
+ㅤㅤ我们未来可能会致力于提供 Minecraft 服务器开设相关的教程和文档，敬请期待吧。
 
-ㅤㅤ你可以使用 Minecraft 1.8 - 1.20 来连接。需要注意的是，1.17 以下版本客户端不支持 `Y = 0` 以下的区域，所以建议使用 1.20 连接。 
-
-### Bedrock 版服务器地址
-
-地址：
-> hub.bugcraft.org
-
-端口：
-> 39132
-
-ㅤㅤ支持的 Bedrock 版本：1.19 - 1.20。在 Bedrock 版本上我们无法支持更新或者更久的版本，因此务必确保你的版本符合这个版本区间。
-
-### EaglerX 版服务器地址
-
-> http://hub.bugcraft.org:18000
-
-ㅤㅤ仅支持 1.8。这意味着你不能访问 `Y = 0` 以下的区域。
-
-### BugCraft Docs
-
-> http://hub.bugcraft.org:18000/docs/
+ㅤㅤ我们也有可能在未来推出英语版本的官方网站。
 
 ## 友情链接
 
