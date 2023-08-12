@@ -13,9 +13,9 @@
 
 ## 服务器地址
 
-ㅤㅤ`play.bugcraft.org`
+ㅤㅤ`play.bugcraft.org` 或者 `host.bugcraft.org:55565`
 
-ㅤㅤ如果你无法连接或者需要帮助，请与我们联系。目前已不再提供其它连接地址。
+ㅤㅤ适用于 1.8.0 - 1.20.1 的 Minecraft。
 
 ## 关于 `bugcraft.org` 与此网站
 
