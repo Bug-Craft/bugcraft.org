@@ -3,8 +3,6 @@
 
 # BugCraft - There are many bugs to play.
 
-> BugCraft 正在升级配置，所以近期可能不太稳定。
-
 ㅤㅤ你好！欢迎查看 BugCraft 的官方网站！BugCraft 是一个 Minecraft 服务器，目前主要的项目是生存服务器。
 
 ㅤㅤ欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
@@ -13,9 +11,31 @@
 
 ## 服务器地址
 
+### Java 版本
+
 ㅤㅤ`play.bugcraft.org` 或者 `host.bugcraft.org:55565`
 
-ㅤㅤ适用于 1.8.0 - 1.20.1 的 Minecraft。
+ㅤㅤ适用于 1.8.0 - 1.20.1 的 Minecraft Java Edition。
+
+### Bedrock 版本
+
+* `host.bugcraft.org`
+
+ㅤㅤ这是服务器的地址。接下来，根据版本进行判断要使用的端口号。
+
+`29132`
+
+ㅤㅤ适用于 1.17 - 1.18 的 Minecraft Bedrock Edition！允许你以 Java 版本玩家的身份进行登录。
+
+`39132`
+
+ㅤㅤ适用于 1.19 - 1.20 的 Minecraft Bedrock Edition！允许你以 Bedrock 版本玩家的身份进行登录。
+
+### EaglerX 版本
+
+* http://host.bugcraft.org:18000/
+
+ㅤㅤ适用于 Chrome 等浏览器的版本！你可以使用支持 JavaScript 和 WebGL 2.0 的浏览器进行游玩。
 
 ## 关于 `bugcraft.org` 与此网站
 
