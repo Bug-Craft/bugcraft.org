@@ -5,7 +5,7 @@
 
 ㅤㅤ你好！欢迎查看 BugCraft 的官方网站！BugCraft 是一个 Minecraft 服务器，目前主要的项目是生存服务器。
 
-ㅤㅤ欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
+ㅤㅤ欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。也欢迎访问 BugCraft 官方的 [BugCraft Blog](https://bugcraft.eu.org/)！
 
 ㅤㅤ请在 [MCMOD 百科的“找服玩”页面](https://play.mcmod.cn/sv20187398.html) 里查看服务器的实时在线人数并且为我们进行评分！如果你可以给我们一个客观的评价，我们感激不尽！
 
@@ -53,6 +53,7 @@
 [野原灌水屋](https://www.sxc258.top/)
 [Cheemburger](http://byd.cheemburger.top/)
 [阳云网络](http://itgov.cloud/)
+[BugCraft Blog](https://bugcraft.eu.org/)
 
 如果希望加入这里的友情链接，请与我们取得联系。
 
