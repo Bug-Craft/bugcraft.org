@@ -49,12 +49,7 @@
 
 ## 友情链接
 
-[whycf 的主页](http://cyzs.tk/)
-[友商ET系列基岩与Java服务器的官网](http://不如原神.下次一定.com/)
-[Craft233](https://www.craft233.top/)
-[野原灌水屋](https://www.sxc258.top/)
-[Cheemburger](http://byd.cheemburger.top/)
-[阳云网络](http://itgov.cloud/)
+[whycf 的主页](http://cyzs.tk/)ㅤㅤ[友商ET系列基岩与Java服务器的官网](http://不如原神.下次一定.com/)ㅤㅤ[Craft233](https://www.craft233.top/)ㅤㅤ[野原灌水屋](https://www.sxc258.top/)ㅤㅤ[Cheemburger](http://byd.cheemburger.top/)ㅤㅤ[阳云网络](https://itgov.cloud/)ㅤㅤ[山水の博客](https://shanshui.eu.org/)ㅤㅤ[BugCraft.EU.org](https://bugcraft.eu.org)
 
 如果希望加入这里的友情链接，请与我们取得联系。
 
