@@ -1,7 +1,7 @@
 
 ![这……显示不出来吗？没关系，这不影响您继续阅读。](bugcraft.png)
 
-# The BugCraft EULA
+# The [BugCraft](https://bugcraft.org/) EULA
 
 ## 这是什么
 
