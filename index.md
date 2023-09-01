@@ -11,7 +11,7 @@
 
 ## 服务器地址
 
-ㅤㅤ需要知道怎么连接吗？请参考 [BugCraft Docs](https://docs.bugcraft.org/) 吧！我们已重新休整了一下 BugCraft Docs，它现在应该还处于不断更新的过程中。
+ㅤㅤ需要知道怎么连接吗？请参考 [BugCraft Docs](https://docs.bugcraft.org/) 吧！我们已重新休整了一下 BugCraft Docs，它现在应该还处于不断更新的过程中。需要注意：您游玩或加入这些地址则代表您同意 [BugCraft EULA](https://bugcraft.org/eula/)。
 
 ### Java 版本
 
@@ -21,23 +21,15 @@
 
 ### Bedrock 版本
 
-* `host.bugcraft.org`
+地址：`host.bugcraft.org`
 
-ㅤㅤ这是服务器的地址。接下来，根据版本进行判断要使用的端口号。
-
-`29132`
-
-ㅤㅤ适用于 1.17 - 1.18 的 Minecraft Bedrock Edition！允许你以 Java 版本玩家的身份进行登录。
-
-`39132`
+端口：`39132`
 
 ㅤㅤ适用于 1.19 - 1.20 的 Minecraft Bedrock Edition！允许你以 Bedrock 版本玩家的身份进行登录。
 
 ### EaglerX 版本
 
-* http://host.bugcraft.org:18000/
-
-ㅤㅤ适用于 Chrome 等浏览器的版本！你可以使用支持 JavaScript 和 WebGL 2.0 的浏览器进行游玩。
+ㅤㅤ由于可能违反 Minecraft EULA，我们不再提供它。
 
 ## 关于 `bugcraft.org` 与此网站
 
