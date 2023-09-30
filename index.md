@@ -3,9 +3,7 @@
 
 # BugCraft - There are many bugs to play.
 
-ㅤㅤ你好！欢迎查看 BugCraft 的官方网站！BugCraft 是一个 Minecraft 服务器，目前主要的项目是生存服务器。
-
-ㅤㅤ欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
+ㅤㅤ你好！欢迎查看 BugCraft 的官方网站！BugCraft 是一个 Minecraft 服务器，目前主要的项目是生存服务器。欢迎加入我们的 **QQ Group：736660180**。遇到问题或者想要和其他玩家讨论、交流，请加入此 QQ 群组。我们在这里期待着你的加入。
 
 ㅤㅤ请在 [MCMOD 百科的“找服玩”页面](https://play.mcmod.cn/sv20187398.html) 里查看服务器的实时在线人数并且为我们进行评分！如果你可以给我们一个客观的评价，我们感激不尽！
 
@@ -17,7 +15,7 @@
 
 ㅤㅤ`play.bugcraft.org` 或者 `host.bugcraft.org:55565`
 
-ㅤㅤ适用于 1.8.0 - 1.20.1 的 Minecraft Java Edition。
+ㅤㅤ适用于 1.8.0 - 1.20.1 的 Minecraft Java Edition。需要注意的是，对于 1.17 以下版本的客户端，Y 轴高度 0 以下的方块是无法正常显示的。
 
 ### Bedrock 版本
 
@@ -25,11 +23,11 @@
 
 端口：`39132`
 
-ㅤㅤ适用于 1.19 - 1.20 的 Minecraft Bedrock Edition！允许你以 Bedrock 版本玩家的身份进行登录。
+ㅤㅤ适用于 1.19 - 1.20 的 Minecraft Bedrock Edition！如果你的 Java 版本玩家名字与基岩版本一致，则可以直接登录相同的账户！
 
 ### EaglerX 版本
 
-ㅤㅤ由于可能违反 Minecraft EULA，我们不再提供它。
+ㅤㅤ由于可能违反 Minecraft EULA，我们不再提供它。但是，这个版本的服务器依然在运行，您依然可以通过这个版本来加入。
 
 ## 关于 `bugcraft.org` 与此网站
 
@@ -37,15 +35,23 @@
 
 ## 关于 BugCraft
 
-ㅤㅤ嗯……这里只是写一个标题，并没有什么好说的。
+ㅤㅤBugCraft 是一个于二〇二二年七月一日创建的、一个不起眼的小服务器。
 
 ## 友情链接
 
-[whycf 的主页](http://cyzs.tk/)ㅤㅤ[友商ET系列基岩与Java服务器的官网](http://不如原神.下次一定.com/)ㅤㅤ[Craft233](https://www.craft233.top/)ㅤㅤ[野原灌水屋](https://www.sxc258.top/)ㅤㅤ[Cheemburger](http://byd.cheemburger.top/)ㅤㅤ[阳云网络](https://itgov.cloud/)ㅤㅤ[山水の博客](https://shanshui.eu.org/)ㅤㅤ[BugCraft.EU.org](https://bugcraft.eu.org)
+[whycf 的主页](http://cyzs.tk/)ㅤㅤ[友商ET系列基岩与Java服务器的官网](http://不如原神.下次一定.com/)ㅤㅤ[Craft233](https://www.craft233.top/)ㅤㅤ[野原灌水屋](https://www.sxc258.top/)ㅤㅤ[Cheemburger](http://byd.cheemburger.top/)ㅤㅤ[山水の博客](https://shanshui.eu.org/)ㅤㅤ[BugCraft.EU.org](https://bugcraft.eu.org)
 
-如果希望加入这里的友情链接，请与我们取得联系。
+ㅤㅤ如果希望加入这里的友情链接，请与我们取得联系。当网站无法访问时……我们会将其移除。
 
-> ㅤㅤ此页面由 Ygbs 于二〇二三年八月十二日重新编写。此网站全部内容采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权。这个网站的存储库在[这里](https://github.com/Bug-Craft/bugcraft.org)。感谢你的阅读。
+## 联系我们
+
+ㅤㅤ如果发现错误或者想要将建议发送给我们，请写信给 ygbs@bugcraft.org。此外，当我们收到建议时，该建议时免费的，且我们可以选择采纳和不采纳它！
+
+ㅤㅤ或者也可以加入我们的 QQ Group 并向我们提出建议。
+
+<hr>
+
+> ㅤㅤ此页面由 Ygbs 于二〇二三年九月三十日重新编写。此网站全部内容采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权。这个网站的存储库在[这里](https://github.com/Bug-Craft/bugcraft.org)。感谢你的阅读。
 ㅤㅤ“Minecraft” 以及 “我的世界” 为 Mojang AB. 的商标，“BugCraft” 和本网站与 Mojang 以及 Microsoft 没有从属关系。“BugCraft” 不是 Minecraft 官方的服务器。
 
 ㅤ
