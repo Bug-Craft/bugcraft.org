@@ -7,6 +7,8 @@
 
 ㅤㅤ请在 [MCMOD 百科的“找服玩”页面](https://play.mcmod.cn/sv20187398.html) 里查看服务器的实时在线人数并且为我们进行评分！如果你可以给我们一个客观的评价，我们感激不尽！
 
+ㅤㅤ我们推出了 [BugCraft Blog](https://blog.bugcraft.org)！这是 BugCraft 的官方博客，我们会在上面发布关于 BugCraft 的最新进展和最新消息哦。也欢迎各位玩家与访客在上面进行评论！
+
 ## 服务器地址
 
 ㅤㅤ需要知道怎么连接吗？请参考 [BugCraft Docs](https://docs.bugcraft.org/) 吧！我们已重新休整了一下 BugCraft Docs，它现在应该还处于不断更新的过程中。需要注意：您游玩或加入这些地址则代表您同意 [BugCraft EULA](https://bugcraft.org/eula/)。
